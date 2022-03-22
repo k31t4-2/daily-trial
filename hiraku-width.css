@@ -1,0 +1,28 @@
+/* .js-hiraku-offcanvas-body-right .js-hiraku-header-fixed {
+    margin-left: -210px;
+} */
+/*
+.js-hiraku-offcanvas-body-left .js-hiraku-header-fixed {
+    margin-left: 210px;
+}
+
+.js-hiraku-offcanvas .js-hiraku-offcanvas-sidebar-left {
+    margin-left:-210px;
+}
+
+.js-hiraku-offcanvas .js-hiraku-offcanvas-sidebar-right {
+    margin-right:210px;
+} */
+
+.js-hiraku-offcanvas .js-hiraku-offcanvas-sidebar {
+    /* サイドバー本体のwidth */
+    width: 300px;
+}
+
+/* .js-hiraku-offcanvas-body-left {
+    left:210px;
+}
+
+.js-hiraku-offcanvas-body-right {
+    right:210px;
+} */
