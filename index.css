@@ -299,7 +299,7 @@ html {
 }
 
 .fav {
-  background-image: url(/img/PC/mv.png);
+  background-image: url(mv.png);
   background-position: center left;
   background-repeat: no-repeat;
   background-size: cover;
@@ -467,7 +467,7 @@ html {
 }
 
 .news__item::after {
-  content: url(/img/PC/news-arrow-1.svg);
+  content: url(news-arrow-1.svg);
   display: block;
   position: absolute;
   top: 50%;
@@ -1197,7 +1197,7 @@ html {
 }
 
 .qanda {
-  background: url(/img/PC/qa-bg.png);
+  background: url(qa-bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1285,7 +1285,7 @@ html {
 }
 
 .qanda .accordion__ttl::after {
-  content: url(/img/PC/plus.svg);
+  content: url(plus.svg);
   display: inline-block;
   position: absolute;
   top: 50%;
@@ -1470,7 +1470,7 @@ html {
 }
 
 .contact__wrap {
-  background: url(/img/PC/contact-bg@2x.png);
+  background: url(contact-bg@2x.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -1491,7 +1491,7 @@ html {
 }
 
 .contact .content__head {
-  background: url(/img/PC/contact1@2x.png);
+  background: url(contact1@2x.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
